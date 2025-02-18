@@ -1,0 +1,3 @@
+from evalutions.regressioneval import RegressionEvaluation
+from evalutions.clusteringeval import ClusteringEvaluation
+from evalutions.calssificaitoneval import ClassificationEvaluation
