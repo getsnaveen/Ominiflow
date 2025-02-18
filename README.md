@@ -19,13 +19,5 @@ pip install shrinkit
 ## Sample Usage
 ![Sample Training Usage](/graphics/sample_training.png)
 
-## Links
-Streamlit App: [https://shrinkit.streamlit.app/](https://shrinkit.streamlit.app/)</br>
-PyPI Package: [https://pypi.org/project/shrinkit/](https://pypi.org/project/shrinkit/)</br>
-Source Code: [https://github.com/blurred-machine/shrinkit](https://github.com/blurred-machine/shrinkit)</br>
-
-## Contributing
-Contributions to Shrinkit are welcome! Feel free to submit bug reports, feature requests, or pull requests on the GitHub repository.
-
 ## License
 This project is licensed under the Apache License - see the [LICENSE](/LICENSE) file for details.
