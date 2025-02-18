@@ -1,4 +1,4 @@
-# Shrinkit: A GUI-Based AutoML Python Library
+# Ominiflow: A GUI-Based AutoML Python Library
 
 Shrinkit is a powerful GUI-based Python library designed for automating machine learning tasks. With its intuitive interface, Shrinkit simplifies the process of building, training, and evaluating machine learning models, making it accessible to users of all skill levels. Shrinkit is a <b>No-code</b> package which can be used through a graphical interface to upload, process and train datasets on the go!
 
