@@ -1,7 +1,10 @@
-pandas
+pandas 
 numpy
 scipy
 ydata-profiling
-streamlit-ydata-profiling
+streamlit-ydata-profiling == 0.2.1
 matplotlib
 scikit-learn
+mlflow
+category-encoders == 2.8.0
+streamlit == 1.42.2
